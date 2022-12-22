@@ -12,7 +12,7 @@ Take a look at the [CONTRIBUTING.md](https://github.com/harshchandwani/Competiti
 
 
 <ul>
-  <li target='_blank'>The Theil Fellowship (OPEN ALL YEAR): http://thielfellowship.org/</li>
+  <li>The Theil Fellowship (OPEN ALL YEAR): http://thielfellowship.org/</li>
   <br>
   
   <li>Outreachy (internships run May to August, or December to March): https://www.outreachy.org/</li>
@@ -75,7 +75,7 @@ Take a look at the [CONTRIBUTING.md](https://github.com/harshchandwani/Competiti
  <li>Summer of Haskell : https://summer.haskell.org/</li>
   <br>
   
- <li30 Days of Google Cloud by Google: https://events.withgoogle.com/30daysofgooglecloud/#content/</li>
+ <li>30 Days of Google Cloud by Google: https://events.withgoogle.com/30daysofgooglecloud/#content/</li>
   <br>
   
  <li>Adobe Express Community: https://www.adobe.com/express/ambassadors//</li>
@@ -102,23 +102,24 @@ Take a look at the [CONTRIBUTING.md](https://github.com/harshchandwani/Competiti
   <li>Atlassian Women in Tech: https://womenintech.girlscript.tech/</li>
   <br>
   
-  <li>Angry Birds AI Competition: http://aibirds.org//</li>
-  <br>
-  
+ 
   <li>Ascend Fellowship: https://www.deshaw.com/careers/fellowships</li>
   <br>
   
   <li>AWS Health AI Hackathon: https://awshealthai.devpost.com/?ref_feature=challenge&ref_medium=discover </li>
   <br>
   
-  <li>TCS CodeVita: https://www.tcscodevita.com/</li>
-  <br>
-  
   <li>Samsung - Solve for Tomorrow: https://www.samsung.com/in/solvefortomorrow/</li>
   <br>
   
-  <li>Mitacs Globalink Research Internship: https://www.mitacs.ca/en/programs/globalink/globalink-research-internship</li>
+ 
+  <li>Data Science for Social Good Fellowship, CMU: https://www.dssgfellowship.org/</li>
   <br>
+  
+  <li>Rails Girls Summer of Code(July- Sept): https://railsgirlssummerofcode.org/</li>
+  <br>
+  
+ 
   
   
   
