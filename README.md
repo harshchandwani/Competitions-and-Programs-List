@@ -99,27 +99,19 @@ This is List of all the Open Source Programs and Competitions You can't miss to 
   <li>Ascend Fellowship: https://www.deshaw.com/careers/fellowships</li>
   <br>
   
-  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <li>AWS Health AI Hackathon: https://awshealthai.devpost.com/?ref_feature=challenge&ref_medium=discover </li>
   <br>
   
-  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <li>TCS CodeVita: https://www.tcscodevita.com/</li>
   <br>
   
-  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <li>Samsung - Solve for Tomorrow: https://www.samsung.com/in/solvefortomorrow/</li>
   <br>
   
-  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <li>Mitacs Globalink Research Internship: https://www.mitacs.ca/en/programs/globalink/globalink-research-internship</li>
   <br>
   
-  <li>Angry Birds AI Competition: http://aibirds.org//</li>
-  <br>
   
-  <li>Angry Birds AI Competition: http://aibirds.org//</li>
-  <br>
-  
-  <li>Angry Birds AI Competition: http://aibirds.org//</li>
-  <br>
-
   
 </ul>
 
