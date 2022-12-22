@@ -3,7 +3,7 @@ This is List of all the Open Source Programs and Competitions You can't miss to 
 
 
 <ul>
-  <li>The Theil Fellowship (OPEN ALL YEAR): http://thielfellowship.org/</li>
+  <li target='_blank'>The Theil Fellowship (OPEN ALL YEAR): http://thielfellowship.org/</li>
   <br>
   
   <li>Outreachy (internships run May to August, or December to March): https://www.outreachy.org/</li>
@@ -81,6 +81,45 @@ This is List of all the Open Source Programs and Competitions You can't miss to 
  <li>Angry Birds AI Competition: http://aibirds.org//</li>
   <br>
 
+   <li>AmazeWIT Circles: https://amazewitcirclesamazon.splashthat.com/</li>
+  <br>
 
+   <li>Amazon WOW:https://amazonwowindia.splashthat.com/</li>
+  <br>
+
+   <li>Amazon ML Summer School: https://amazonmlsummerschoolindia.splashthat.com/<li>
+  <br>
+  
+  <li>Atlassian Women in Tech: https://womenintech.girlscript.tech/</li>
+  <br>
+  
+  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <br>
+  
+  <li>Ascend Fellowship: https://www.deshaw.com/careers/fellowships</li>
+  <br>
+  
+  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <br>
+  
+  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <br>
+  
+  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <br>
+  
+  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <br>
+  
+  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <br>
+  
+  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <br>
+  
+  <li>Angry Birds AI Competition: http://aibirds.org//</li>
+  <br>
+
+  
 </ul>
 
