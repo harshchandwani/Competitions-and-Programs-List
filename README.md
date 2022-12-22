@@ -1,5 +1,14 @@
 # Competitions-and-Programs-List
-This is List of all the Open Source Programs and Competitions You can't miss to afford. 
+This is List of all the Open Source Programs and Competitions You can't miss to afford. You can compete, learn, explore, and gain experience.
+
+
+
+### How to contribute <br>
+
+You can contribute in many ways to this repository:
+
+Take a look at the [CONTRIBUTING.md](https://github.com/harshchandwani/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started.
+
 
 
 <ul>
